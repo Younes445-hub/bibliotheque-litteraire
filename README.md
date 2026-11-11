@@ -1,6 +1,6 @@
 # Bibliothèque littéraire
 
-Catalogue de 223 œuvres : recherche, filtres, fiches détaillées, comparateur, exploration par thème, bibliothèque personnelle (localStorage).
+Catalogue de 240 œuvres : recherche, filtres, fiches détaillées, comparateur, exploration par thème, bibliothèque personnelle (localStorage).
 
 Application autonome : `index.html` contient tout (HTML, CSS, JavaScript et données). Aucune installation nécessaire : ouvrez le fichier dans un navigateur.
 
